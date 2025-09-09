@@ -103,7 +103,7 @@ git clone https://github.com/# 🖥️ scanPorta
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/edinei101/scanPorta.git
+https://github.com/edinei101/scanPorta.git
 /scanPorta.git
 /scanPorta.git
 l e fácil de entender.
